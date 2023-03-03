@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://joutria.github.io/csb-ju4x9n/static/css/main.a4afe4ec.chunk.css",
+    "main.js": "https://joutria.github.io/csb-ju4x9n/static/js/main.f380c779.chunk.js",
+    "main.js.map": "https://joutria.github.io/csb-ju4x9n/static/js/main.f380c779.chunk.js.map",
+    "runtime-main.js": "https://joutria.github.io/csb-ju4x9n/static/js/runtime-main.7e6de1d5.js",
+    "runtime-main.js.map": "https://joutria.github.io/csb-ju4x9n/static/js/runtime-main.7e6de1d5.js.map",
+    "static/js/2.589d101d.chunk.js": "https://joutria.github.io/csb-ju4x9n/static/js/2.589d101d.chunk.js",
+    "static/js/2.589d101d.chunk.js.map": "https://joutria.github.io/csb-ju4x9n/static/js/2.589d101d.chunk.js.map",
+    "index.html": "https://joutria.github.io/csb-ju4x9n/index.html",
+    "static/css/main.a4afe4ec.chunk.css.map": "https://joutria.github.io/csb-ju4x9n/static/css/main.a4afe4ec.chunk.css.map",
+    "static/js/2.589d101d.chunk.js.LICENSE.txt": "https://joutria.github.io/csb-ju4x9n/static/js/2.589d101d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e6de1d5.js",
+    "static/js/2.589d101d.chunk.js",
+    "static/css/main.a4afe4ec.chunk.css",
+    "static/js/main.f380c779.chunk.js"
+  ]
+}
